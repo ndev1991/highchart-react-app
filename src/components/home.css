@@ -1,0 +1,22 @@
+.home-page {
+  padding: 24px;
+}
+
+.layout {
+  padding: 24px;
+  display: flex;
+}
+
+.list-section {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-section {
+  width: 50%;
+}
+
+.submit-btn {
+  margin-top: 16px;
+}
